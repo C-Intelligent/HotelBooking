@@ -1,2 +1,2 @@
-# HotelBooking/master/total
-The complete program
+# HotelBooking/master/total/Runze Y
+The part of Runze Y
